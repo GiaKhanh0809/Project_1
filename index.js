@@ -5,3 +5,5 @@ console.log("Test clone")
 console.log("Test Branch")
 
 console.log("Test PR")
+
+console.log("B2")
